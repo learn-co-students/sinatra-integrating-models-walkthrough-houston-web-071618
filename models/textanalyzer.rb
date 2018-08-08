@@ -1,5 +1,4 @@
-# Your TextAnalyzer model code will go here.
-lass TextAnalyzer
+class TextAnalyzer
   attr_reader :text
 
   def initialize(text)
